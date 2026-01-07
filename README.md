@@ -47,7 +47,7 @@ brew install --cask xbar
 
 ```bash
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/wifi-status-monitor.git
+git clone https://github.com/Yusful33/wifi-status-monitor.git
 
 # Copy the script to xbar plugins folder
 cp wifi-status-monitor/internet-status.5s.sh ~/Library/Application\ Support/xbar/plugins/
